@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591045197 source:c:\users\kübra\xurvivor\xurvivor.c
+	<stdio.h>
+	<stdlib.h>
+

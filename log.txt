@@ -1,0 +1,9 @@
+XURVIVOR YARISMASINA HOSGELDINIZ!
+Parkur Uzunlugu: 56
+Engel Sayisi: 2
+1. Engel Uzunlugu: 32
+2. Engel Uzunlugu: 26
+100 ile 32 aralarinda asal degildir
+100 ile 26 aralarinda asal degildir
+Tebrikler yarismayi kazandiniz buyuk odul sizin!
+ HP : 100
